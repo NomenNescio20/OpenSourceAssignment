@@ -1,0 +1,24 @@
+
+body {
+    background-color: #aaaaff;
+    font-family: Arial;
+}
+
+div.intro, div.links {
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #bbaabb;
+    border: 2px solid red;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.intro .resources {
+    text-align: center;
+}
+
+div.intro h1, div.links h1 {
+    text-align: center;
+}
